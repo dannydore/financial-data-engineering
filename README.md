@@ -1,4 +1,4 @@
-# Financial Data Engineering
+# FinRisk Data Management
 ## Learn Finance
 - [Khan Academy: Finance & Capital Markets](https://www.khanacademy.org/economics-finance-domain/core-finance)
 ---
