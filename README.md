@@ -1,4 +1,4 @@
-# FinRisk Data Management
+# Risk Data Development
 ## Learn Finance
 - [Khan Academy: Finance & Capital Markets](https://www.khanacademy.org/economics-finance-domain/core-finance)
 ---
